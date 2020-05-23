@@ -3,7 +3,7 @@ date: 2020-05-17
 title: Raspberry Jam
 categories:
   - Jams
-featured_image: /images/jams/raspberry.jpg
+featured_image: images/jams/raspberry.jpg
 recipe:
   servings: 3 medium sized jars
   prep: 5 minutes
