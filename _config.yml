@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Honey & Zest
+title: Jikoni & Soul
 url: "https://catarinacbh.github.io/recipes/"
 baseurl:
 google_analytics_key:
@@ -14,9 +14,8 @@ description: Food blog template for Jekyll.
 author:
   name:
   email:
-  twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Jikoni Template
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
@@ -74,14 +73,9 @@ exclude:
 # CloudCannon
 
 social_icons:
-  - Facebook
   - Google Plus
   - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
   - RSS
 
 _options:
