@@ -3,7 +3,7 @@ date: 2020-05-26
 title: Carrot and Coriandar Soup
 categories:
   - Soups
-featured_image: /images/soups/carrots.jpg
+featured_image: https://i.imgur.com/5SHyfzK.jpg
 recipe:
   servings: 2 - 4
   prep: 20 minutes
