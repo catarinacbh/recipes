@@ -3,7 +3,7 @@ date: 2020-05-22
 title: Pea and Basil Risotto
 categories:
   - Vegetarian
-featured_image: /images/vegetarian/peas.jpg
+featured_image: https://source.unsplash.com/5kpyzXwKrH8/1560x940
 recipe:
   servings: 4   
   prep: 30 minutes
