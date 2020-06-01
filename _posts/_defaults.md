@@ -8,6 +8,6 @@ recipe:
   prep:
   cook:
   ingredients_markdown:
-  directions_markdown:
+  Method_markdown:
 notes:
 ---

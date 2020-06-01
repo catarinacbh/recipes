@@ -9,11 +9,11 @@ recipe:
   prep: 30 minutes
   cook: 45-60 minutes
   ingredients_markdown: |-
-    * 300 grams grated zucchini
+    * 300g grated zucchini
     * 150ml of oil (sunflower or olive oil. You may use a mix of oil and melted unsalted butter)
     * 50g dark brown sugar
     * 60g granulated sugar
-    * 1 tsp vannila extract
+    * 1 tsp vanilla extract
     * 2 eggs
     * 1 tsp salt
     * 1 tsp ground cinnamon

@@ -23,10 +23,10 @@ recipe:
     * Ground pepper
     * Pumpkin seeds to serve    
   directions_markdown: |-
-    1. In a pan, heat the olive oil and butter. Add the onion and let it cook until golden.
-    2. Add the garlic, nutmeg and salt. Let it cook for 2 minutes while stirring it to combine.
-    3. Add the butternut squash, carrots and apple. Once all combined, add the vegetable stock and the thyme. Bring to boil on a low heat for 30 minutes or until the carrots are tender.
-    4. Once cooked, whizz with a hand mixer or in a blender.
+    1. In a pan, heat the olive oil and butter. Add the onion and let it cook until golden brown.
+    2. Add the garlic, nutmeg and salt. Let it cook for 2 minutes while stirring to combine.
+    3. Add the butternut squash, carrots and apple. Once combined, add the vegetable stock and the thyme. Bring to the boil and the simmer for 30 minutes or until the carrots are tender.
+    4. Once cooked, purée with a hand blender or in a food processor.
     5. Serve with pumpkin seeds and pepper on top.
 
 ---
