@@ -24,14 +24,15 @@ recipe:
     * 80g walnuts chopped
     * 45g dried cranberries or raisins
   directions_markdown: |-
-    1. Pre heat oven 200ºC.
-    2. Lightly butter a loaf tin.
-    3. In a large bowl, mix with a fork the grated zucchini with the oil, eggs, sugars, salt and vanilla. Mix well until combined.
-    4. Add the cinnamon, nutmeg, bicarbonate of soda and baking powder. Mix until well combined.
-    5. Sift the flour and add the walnuts. Mix with a metal spoon.  
-    4. Place the mixture into the prepared loaf tin.
-    5. Bake at 200ºC for 45-60 minutes until a knife inserted into the cake comes out dry.
-    6. Cool on a wire rack and keep in an airtight container once cold. Voila! Let it cool before serving. Zucchini bread lasts for up to 5 days at room temperature.
+    1. Pre heat oven to 200ºC.
+    2. Lightly grease a loaf tin.
+    3. In a large bowl, use a fork to mix the grated zucchini with the oil, eggs, sugars, salt and vanilla. Mix well until combined.
+    4. Add the cinnamon, nutmeg, bicarbonate of soda and baking powder. Mix well until combined.
+    5. Sift the flour and mix with a metal spoon.
+    6. Add the walnuts and the cranberries/raisins.  
+    7. Place the mixture into the prepared loaf tin.
+    8. Bake for 45-60 minutes until the skewer comes out clean.
+    9. Allow to cool for 5 minutes in the tin before turning out onto a wire rack and cooling completely. Voila!
 ---
 
 One-bowl Zucchini Bread. Great served with a dollop of Greek yogurt and a drizzle of honey.

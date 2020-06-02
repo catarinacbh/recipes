@@ -3,7 +3,7 @@ date: 2020-05-17
 title: Raspberry Jam
 categories:
   - Jams
-featured_image: https://i.imgur.com/e9UYPud.jpg
+featured_image: https://i.imgur.com/vIje66HsIcU.jpg
 recipe:
   servings: 3 medium sized jars
   prep: 5 minutes
@@ -16,7 +16,7 @@ recipe:
 
   directions_markdown: |-
 
-    1. Place the raspberries, the cinnamon and the lemon in a saucepan. Bring to boil and mash the mixture. Boil for another 1-2 minutes, while constantly stirring.
+    1. Place the raspberries, the cinnamon stick and the lemon in a saucepan. Bring to the boil and mash the mixture. Boil for another 1-2 minutes, while constantly stirring.
     2. Add the sugar and boil the mixture for another 5 minutes.
     3. Pour into the jars and let it cool overnight.
     4. Best served on scones.
