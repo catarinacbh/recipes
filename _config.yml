@@ -4,9 +4,9 @@
 title: Jikoni & Soul
 url: "https://catarinacbh.github.io/recipes/"
 baseurl:
-google_analytics_key: UA-171360288-1
+google_analytics_key:
 newsletter_action:
-disqus_shortname: catarinacbh-2
+disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
