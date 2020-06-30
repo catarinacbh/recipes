@@ -1,15 +1,16 @@
 ---
-date: 2020-06-10
+date: 2020-06-30
 title: 10min-Chocolate Cake
 categories:
   - Cakes
-featured_image: https://source.unsplash.com/9RHWpfKrWas/1560x940
+featured_image: https://i.imgur.com/PlHfDuG.jpg
 recipe:
   servings: 8
   prep: 10 minutes
   cook: 45 minutes
   ingredients_markdown: |-
-  **Cake**
+    **Cake**
+
     * 2 cups plain flour
     * 1 cup granulated sugar
     * 1/2 cocoa powder
@@ -23,7 +24,8 @@ recipe:
     * 2 eggs
     * 1 cup hot water
 
-  **Topping**
+    **Topping**
+
     * Triple chocolate curls (optional)
     * Chocolate jazzies (optional)
 
