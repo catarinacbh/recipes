@@ -3,7 +3,7 @@ date: 2020-05-18
 title: Zucchinni Bread
 categories:
   - Cakes
-featured_image: https://source.unsplash.com/FCVocIRFL2g/1560x940
+featured_image: https://imgur.com/y0cIX6W.jpg
 recipe:
   servings: 8 to 10
   prep: 30 minutes
