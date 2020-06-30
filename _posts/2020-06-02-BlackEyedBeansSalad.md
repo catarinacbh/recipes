@@ -3,7 +3,7 @@ date: 2020-06-02
 title: Black-Eyed Bean Salad
 categories:
   - Vegetarian
-featured_image: https://i.imgur.com/Ldjbz9u.jpg
+featured_image: https://imgur.com/a/rGGf3DZ
 recipe:
   servings: 5
   prep: 20 minutes
