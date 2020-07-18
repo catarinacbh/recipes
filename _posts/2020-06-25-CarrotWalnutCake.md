@@ -9,7 +9,7 @@ recipe:
   prep: 20 minutes
   cook: 45 minutes
   ingredients_markdown: |-
-  **Cake**
+    **Cake**
 
     * 250g plain flour
     * 2 tsp baking powder
@@ -27,8 +27,8 @@ recipe:
     * 200g grated carrots
     * 100g walnuts
 
-  **Frosting**
-  
+    **Frosting**
+
     * 175g cream cheese
     * 100g butter
     * 150g icing sugar
