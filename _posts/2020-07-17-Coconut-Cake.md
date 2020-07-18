@@ -7,7 +7,7 @@ featured_image: https://images.unsplash.com/photo-1595083932640-35f862aaf1c6?ixl
 recipe:
   servings: 12 slices
   prep: 15 minutes
-  cook: 65 minutes
+  cook: 45 minutes
   ingredients_markdown: |-
     **Cake**
 
@@ -35,7 +35,7 @@ recipe:
 
 
   directions_markdown: |-
-    1. Pre heat oven to 180ºC.
+    1. Pre heat oven to 150ºC.
     2. Lightly grease a loaf tin.
     3. In a large bowl, add the flour, baking powder, bicarbonate of soda and salt. Mix well until combined.
     4. In a separate bowl, beat the butter and sugar until creamy. Add the egg whites, the soured cream and vanilla bean. Mix until well combined.
