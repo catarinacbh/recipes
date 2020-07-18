@@ -39,7 +39,7 @@ recipe:
     2. Lightly grease a loaf tin.
     3. In a large bowl, add the flour, baking powder, bicarbonate of soda and salt. Mix well until combined.
     4. In a separate bowl, beat the butter and sugar until creamy. Add the egg whites, the soured cream and vanilla bean. Mix until well combined.
-    5. Combine with the dry ingridients and add the coconu milk, lemon juice and zest. Whisk until the mixture has no lumps.
+    5. Combine with the dry ingredients and add the coconut milk, lemon juice and zest. Whisk until the mixture has no lumps.
     6. Place the mixture into the prepared loaf tin.
     7. Bake for 40 minutes until the cake is firm. Allow to cool before the frosting and decoration.
     8. For the frosting, in a bowl mix the butter and cream cheese until creamy and smooth. Add the icing sugar, coconut milk and vanilla bean.
