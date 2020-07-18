@@ -10,6 +10,7 @@ recipe:
   cook: 45 minutes
   ingredients_markdown: |-
   **Cake**
+
     * 250g plain flour
     * 2 tsp baking powder
     * 1 tsp bicarbonate of soda
@@ -27,6 +28,7 @@ recipe:
     * 100g walnuts
 
   **Frosting**
+  
     * 175g cream cheese
     * 100g butter
     * 150g icing sugar
