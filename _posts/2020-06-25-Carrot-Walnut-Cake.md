@@ -51,4 +51,4 @@ recipe:
     12. That's it! Ready to go.
 
 ---
-Carrot cake is always a good option. For a Sunday afternoon or for a birthday. This cake is full of flavour with different spices and walnuts. The frosting just makes the cake even more moist and
+Carrot cake is always a good option. For a Sunday afternoon or for a birthday. This cake is full of flavour with different spices and walnuts. The frosting just makes the cake even more moist. 
