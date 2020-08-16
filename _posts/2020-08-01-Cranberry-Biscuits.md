@@ -3,7 +3,7 @@ date: 2020-08-16
 title: Cranberry Biscuits
 categories:
   - Cakes
-featured_image: https://unsplash.com/photos/C3my-1o-m80
+featured_image: https://images.unsplash.com/photo-1597591420388-0d795d7f3e6f?ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80
 recipe:
   servings: 10 biscuits
   prep: 15 minutes
